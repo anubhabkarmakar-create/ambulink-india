@@ -14,7 +14,8 @@ The platform is designed for **pan-India deployment**, with support for emergenc
 
 ### Local Development
 
-http://localhost:5000
+https://ambulink-india.netlify.app
+
 
 > The above URL works only when the AMBULINK INDIA server is running locally.
 
