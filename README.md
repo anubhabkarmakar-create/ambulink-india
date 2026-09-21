@@ -14,7 +14,8 @@ The platform is designed for **pan-India deployment**, with support for emergenc
 
 ### Local Development
 
-http://localhost:5000/
+https://ai.studio/apps/5281c4ea-627d-413d-bc39-177ee28a783d?fullscreenApplet=true
+
 
 
 > The above URL works only when the AMBULINK INDIA server is running locally.
